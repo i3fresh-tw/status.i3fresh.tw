@@ -1,5 +1,6 @@
 owner: i3fresh-tw
 repo: status.i3fresh.tw
+user-agent: i3fresh-tw.github.io
 
 sites:
   - name: Index
