@@ -5,6 +5,8 @@ user-agent: i3fresh-tw.github.io
 sites:
   - name: Index
     url: https://i3fresh.tw/index.html
+  - name: Mobile Index
+    url: https://mob.i3fresh.tw/index.html
   - name: Login
     url: https://i3fresh.tw/login.html
   - name: Register
