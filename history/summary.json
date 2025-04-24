@@ -22,19 +22,19 @@
     "url": "https://mob.i3fresh.tw/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/mob.i3fresh.tw.ico",
     "slug": "mobile-index",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 970,
-    "timeDay": 1251,
-    "timeWeek": 970,
-    "timeMonth": 970,
-    "timeYear": 970,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1109,
+    "timeDay": 1388,
+    "timeWeek": 1109,
+    "timeMonth": 1109,
+    "timeYear": 1109,
     "dailyMinutesDown": {
-      "2025-04-24": 0
+      "2025-04-24": 4
     }
   },
   {
