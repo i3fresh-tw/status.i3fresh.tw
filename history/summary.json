@@ -22,9 +22,9 @@
     "url": "https://mob.i3fresh.tw/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/mob.i3fresh.tw.ico",
     "slug": "mobile-index",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 970,
     "timeMonth": 970,
     "timeYear": 970,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-24": 0
+    }
   },
   {
     "name": "Login",
