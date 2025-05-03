@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "index",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1164,
-    "timeDay": 1037,
-    "timeWeek": 1165,
-    "timeMonth": 1164,
-    "timeYear": 1164,
-    "dailyMinutesDown": {
-      "2025-05-02": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1176,
+    "timeDay": 1029,
+    "timeWeek": 1189,
+    "timeMonth": 1176,
+    "timeYear": 1176,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mobile Index",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mob.i3fresh.tw.ico",
     "slug": "mobile-index",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1094,
-    "timeDay": 889,
-    "timeWeek": 1107,
-    "timeMonth": 1094,
-    "timeYear": 1094,
-    "dailyMinutesDown": {
-      "2025-05-02": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1124,
+    "timeDay": 980,
+    "timeWeek": 1156,
+    "timeMonth": 1124,
+    "timeYear": 1124,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Login",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "login",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 193,
-    "timeDay": 151,
-    "timeWeek": 187,
-    "timeMonth": 193,
-    "timeYear": 193,
-    "dailyMinutesDown": {
-      "2025-05-02": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 194,
+    "timeDay": 153,
+    "timeWeek": 190,
+    "timeMonth": 194,
+    "timeYear": 194,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Register",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "register",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 147,
-    "timeWeek": 189,
+    "timeDay": 149,
+    "timeWeek": 192,
     "timeMonth": 193,
     "timeYear": 193,
-    "dailyMinutesDown": {
-      "2025-05-02": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Frozen Food",
@@ -85,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "frozen-food",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 850,
-    "timeDay": 823,
-    "timeWeek": 943,
-    "timeMonth": 850,
-    "timeYear": 850,
-    "dailyMinutesDown": {
-      "2025-05-02": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 857,
+    "timeDay": 753,
+    "timeWeek": 924,
+    "timeMonth": 857,
+    "timeYear": 857,
+    "dailyMinutesDown": {}
   }
 ]
