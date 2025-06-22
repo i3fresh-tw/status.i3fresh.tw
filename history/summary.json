@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "index",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1179,
-    "timeDay": 889,
-    "timeWeek": 1016,
-    "timeMonth": 1092,
+    "timeDay": 854,
+    "timeWeek": 1032,
+    "timeMonth": 1087,
     "timeYear": 1179,
-    "dailyMinutesDown": {
-      "2025-06-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mobile Index",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1137,
-    "timeDay": 1141,
-    "timeWeek": 1098,
-    "timeMonth": 1047,
-    "timeYear": 1137,
+    "time": 1136,
+    "timeDay": 1060,
+    "timeWeek": 1089,
+    "timeMonth": 1038,
+    "timeYear": 1136,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "login",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 196,
-    "timeDay": 196,
-    "timeWeek": 199,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 197,
+    "timeDay": 184,
+    "timeWeek": 203,
     "timeMonth": 198,
-    "timeYear": 196,
-    "dailyMinutesDown": {
-      "2025-06-21": 9
-    }
+    "timeYear": 197,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Register",
@@ -63,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "register",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 192,
-    "timeWeek": 197,
+    "timeDay": 180,
+    "timeWeek": 199,
     "timeMonth": 197,
     "timeYear": 197,
-    "dailyMinutesDown": {
-      "2025-06-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Frozen Food",
@@ -83,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "frozen-food",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 810,
-    "timeDay": 511,
-    "timeWeek": 670,
-    "timeMonth": 689,
-    "timeYear": 810,
-    "dailyMinutesDown": {
-      "2025-06-21": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 809,
+    "timeDay": 516,
+    "timeWeek": 681,
+    "timeMonth": 678,
+    "timeYear": 809,
+    "dailyMinutesDown": {}
   }
 ]
