@@ -76,19 +76,19 @@
     "url": "https://i3fresh.tw/inpage_47.html",
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "frozen-food",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 757,
-    "timeDay": 370,
-    "timeWeek": 548,
+    "timeDay": 430,
+    "timeWeek": 559,
     "timeMonth": 685,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2025-08-13": 0
+      "2025-08-13": 5
     }
   }
 ]
