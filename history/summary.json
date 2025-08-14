@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1122,
-    "timeDay": 771,
-    "timeWeek": 930,
-    "timeMonth": 1011,
+    "timeDay": 977,
+    "timeWeek": 916,
+    "timeMonth": 1004,
     "timeYear": 1122,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1061,
-    "timeDay": 919,
-    "timeWeek": 925,
-    "timeMonth": 957,
-    "timeYear": 1061,
+    "time": 1059,
+    "timeDay": 866,
+    "timeWeek": 924,
+    "timeMonth": 952,
+    "timeYear": 1059,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,20 @@
     "url": "https://i3fresh.tw/login.html",
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 126,
-    "timeWeek": 163,
-    "timeMonth": 191,
-    "timeYear": 195,
-    "dailyMinutesDown": {}
+    "time": 194,
+    "timeDay": 91,
+    "timeWeek": 146,
+    "timeMonth": 185,
+    "timeYear": 194,
+    "dailyMinutesDown": {
+      "2025-08-14": 0
+    }
   },
   {
     "name": "Register",
@@ -65,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 125,
-    "timeWeek": 163,
+    "timeDay": 185,
+    "timeWeek": 164,
     "timeMonth": 187,
     "timeYear": 194,
     "dailyMinutesDown": {}
@@ -76,17 +78,19 @@
     "url": "https://i3fresh.tw/inpage_47.html",
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "frozen-food",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 756,
-    "timeDay": 419,
-    "timeWeek": 562,
-    "timeMonth": 684,
-    "timeYear": 756,
-    "dailyMinutesDown": {}
+    "time": 750,
+    "timeDay": 320,
+    "timeWeek": 514,
+    "timeMonth": 661,
+    "timeYear": 750,
+    "dailyMinutesDown": {
+      "2025-08-14": 0
+    }
   }
 ]
