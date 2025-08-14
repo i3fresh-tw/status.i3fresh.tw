@@ -40,19 +40,19 @@
     "url": "https://i3fresh.tw/login.html",
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "login",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 91,
+    "timeDay": 110,
     "timeWeek": 146,
-    "timeMonth": 185,
+    "timeMonth": 184,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-08-14": 0
+      "2025-08-14": 5
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://i3fresh.tw/inpage_47.html",
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "frozen-food",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 320,
-    "timeWeek": 514,
-    "timeMonth": 661,
-    "timeYear": 750,
+    "time": 749,
+    "timeDay": 423,
+    "timeWeek": 523,
+    "timeMonth": 660,
+    "timeYear": 749,
     "dailyMinutesDown": {
-      "2025-08-14": 0
+      "2025-08-14": 5
     }
   }
 ]
