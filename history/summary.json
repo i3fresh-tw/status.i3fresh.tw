@@ -6,16 +6,18 @@
     "slug": "index",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1122,
+    "time": 1125,
     "timeDay": 977,
     "timeWeek": 916,
     "timeMonth": 1004,
-    "timeYear": 1122,
-    "dailyMinutesDown": {}
+    "timeYear": 1125,
+    "dailyMinutesDown": {
+      "2025-08-15": 0
+    }
   },
   {
     "name": "Mobile Index",
@@ -40,53 +42,59 @@
     "url": "https://i3fresh.tw/login.html",
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "login",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 110,
-    "timeWeek": 146,
-    "timeMonth": 184,
-    "timeYear": 194,
-    "dailyMinutesDown": {}
+    "time": 192,
+    "timeDay": 85,
+    "timeWeek": 136,
+    "timeMonth": 180,
+    "timeYear": 192,
+    "dailyMinutesDown": {
+      "2025-08-15": 0
+    }
   },
   {
     "name": "Register",
     "url": "https://i3fresh.tw/register.html",
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "register",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 185,
-    "timeWeek": 164,
-    "timeMonth": 187,
-    "timeYear": 194,
-    "dailyMinutesDown": {}
+    "time": 193,
+    "timeDay": 96,
+    "timeWeek": 151,
+    "timeMonth": 182,
+    "timeYear": 193,
+    "dailyMinutesDown": {
+      "2025-08-15": 0
+    }
   },
   {
     "name": "Frozen Food",
     "url": "https://i3fresh.tw/inpage_47.html",
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "frozen-food",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 423,
-    "timeWeek": 523,
-    "timeMonth": 660,
-    "timeYear": 749,
-    "dailyMinutesDown": {}
+    "time": 744,
+    "timeDay": 320,
+    "timeWeek": 486,
+    "timeMonth": 644,
+    "timeYear": 744,
+    "dailyMinutesDown": {
+      "2025-08-15": 0
+    }
   }
 ]
