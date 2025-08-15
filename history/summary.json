@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "index",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1125,
-    "timeDay": 977,
-    "timeWeek": 916,
-    "timeMonth": 1004,
-    "timeYear": 1125,
+    "uptime": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1115,
+    "timeDay": 772,
+    "timeWeek": 878,
+    "timeMonth": 987,
+    "timeYear": 1115,
     "dailyMinutesDown": {
-      "2025-08-15": 0
+      "2025-08-15": 12
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://i3fresh.tw/login.html",
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "login",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 192,
-    "timeDay": 85,
-    "timeWeek": 136,
+    "timeDay": 108,
+    "timeWeek": 140,
     "timeMonth": 180,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-08-15": 0
+      "2025-08-15": 12
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://i3fresh.tw/register.html",
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "register",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 193,
-    "timeDay": 96,
-    "timeWeek": 151,
+    "timeDay": 133,
+    "timeWeek": 155,
     "timeMonth": 182,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-08-15": 0
+      "2025-08-15": 12
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://i3fresh.tw/inpage_47.html",
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "frozen-food",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 744,
-    "timeDay": 320,
-    "timeWeek": 486,
-    "timeMonth": 644,
+    "timeDay": 393,
+    "timeWeek": 500,
+    "timeMonth": 645,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2025-08-15": 0
+      "2025-08-15": 12
     }
   }
 ]
