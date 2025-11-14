@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1056,
-    "timeDay": 635,
-    "timeWeek": 844,
+    "timeDay": 874,
+    "timeWeek": 829,
     "timeMonth": 831,
     "timeYear": 1056,
     "dailyMinutesDown": {
@@ -26,18 +26,16 @@
     "slug": "mobile-index",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 972,
-    "timeDay": 533,
-    "timeWeek": 639,
-    "timeMonth": 695,
-    "timeYear": 972,
-    "dailyMinutesDown": {
-      "2025-11-13": 7
-    }
+    "time": 971,
+    "timeDay": 587,
+    "timeWeek": 657,
+    "timeMonth": 694,
+    "timeYear": 971,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Login",
@@ -51,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
-    "timeDay": 139,
+    "timeDay": 212,
     "timeWeek": 194,
-    "timeMonth": 199,
+    "timeMonth": 201,
     "timeYear": 199,
     "dailyMinutesDown": {}
   },
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 140,
-    "timeWeek": 193,
-    "timeMonth": 189,
+    "timeDay": 204,
+    "timeWeek": 192,
+    "timeMonth": 191,
     "timeYear": 194,
     "dailyMinutesDown": {}
   },
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 696,
-    "timeDay": 417,
-    "timeWeek": 515,
-    "timeMonth": 508,
-    "timeYear": 696,
+    "time": 695,
+    "timeDay": 516,
+    "timeWeek": 510,
+    "timeMonth": 506,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2025-08-15": 19
     }
