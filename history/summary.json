@@ -4,11 +4,11 @@
     "url": "https://i3fresh.tw/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/i3fresh.tw.ico",
     "slug": "index",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
     "time": 999,
     "timeDay": 1002,
@@ -16,6 +16,7 @@
     "timeMonth": 810,
     "timeYear": 999,
     "dailyMinutesDown": {
+      "2026-01-18": 2,
       "2026-01-07": 27,
       "2025-11-18": 142,
       "2025-08-15": 19
@@ -26,9 +27,9 @@
     "url": "https://mob.i3fresh.tw/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/mob.i3fresh.tw.ico",
     "slug": "mobile-index",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -38,6 +39,7 @@
     "timeMonth": 766,
     "timeYear": 901,
     "dailyMinutesDown": {
+      "2026-01-18": 0,
       "2025-11-18": 163
     }
   },
