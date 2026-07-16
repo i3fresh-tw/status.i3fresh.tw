@@ -14,9 +14,6 @@ sites:
   - name: Frozen Food
     url: https://i3fresh.tw/inpage_47.html
 
-assignees:
-  - Gasol
-
 status-website:
   apiBaseUrl: https://api.github.com
   cname: status.i3fresh.tw
